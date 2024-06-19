@@ -12,3 +12,6 @@ E depois:
 
 Run:
 interface.py
+
+Vídeo:
+https://www.youtube.com/watch?v=o2jF60ROq60&ab_channel=TonyRog%C3%A9rio
