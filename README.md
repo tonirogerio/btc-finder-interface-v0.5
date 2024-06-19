@@ -1,6 +1,7 @@
 # Instructions
 
-Siga instrucoes para instalar o node no windows: https://www.youtube.com/watch?v=3bDtzMzaaCw
+Siga instrucoes para instalar o node no windows: 
+https://www.youtube.com/watch?v=3bDtzMzaaCw
 
 
 Rode:
@@ -10,3 +11,9 @@ Rode:
 E depois:
 
 `$ npm start`
+
+Video:
+https://youtu.be/o2jF60ROq60
+
+
+![img1](https://github.com/tonirogerio/btc-finder-interface-v0.5/assets/31183603/12a4f281-9871-44cb-a6bc-bbe4342ce859)
